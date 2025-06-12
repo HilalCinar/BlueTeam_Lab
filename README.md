@@ -1,6 +1,6 @@
 # BlueTeam_Lab
 
-Bu proje, kurumsal sistemlerde karşılaşılabilecek siber tehditlere karşı etkili bir şekilde tespit ve yanıt mekanizmaları geliştirmek amacıyla oluşturulmuştur. Gerçek dünya saldırıları simüle edilerek log analizi, SIEM kullanımı, tehdit tespiti (Sigma/YARA), ve güvenlik operasyon süreçleri üzerine kapsamlı bir laboratuvar ortamı oluşturulmaktadır.
+	Bu proje, kurumsal sistemlerde karşılaşılabilecek siber tehditlere karşı etkili bir şekilde tespit ve yanıt mekanizmaları geliştirmek amacıyla oluşturulmuştur. Gerçek dünya saldırıları simüle edilerek log analizi, SIEM kullanımı, tehdit tespiti (Sigma/YARA), ve güvenlik operasyon süreçleri üzerine kapsamlı bir laboratuvar ortamı oluşturulmaktadır.
 
 ---
 
